@@ -12,5 +12,6 @@ I currently host a blog related to findings throughout my projects hosted on [bo
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats-omen0x8.vercel.app/api?username=omen0x8&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats-omen0x8.vercel.app/api/top-langs/?username=omen0x8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-omen0x8.vercel.app/api/top-langs/?username=omen0x8)
+![GitHub stats](https://github-readme-stats-omen0x8.vercel.app/api?username=omen0x8&count_private=true&include_all_commits=true&line_height=30)
+
