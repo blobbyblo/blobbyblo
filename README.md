@@ -14,4 +14,3 @@ I currently host a blog related to findings throughout my projects hosted on [bo
 
 ![Top Langs](https://github-readme-stats-omen0x8.vercel.app/api/top-langs/?username=omen0x8&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats-omen0x8.vercel.app/api?username=omen0x8&count_private=true&include_all_commits=true&line_height=30&theme=tokyonight)
-
